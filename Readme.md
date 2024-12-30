@@ -177,6 +177,7 @@ Compression ratio:  0.18
 Encoded token IDs:  [385, 464, 1800, 12474, 1125, 826]
 ---
 Decoded text:  اگر أس باقی اؠجِکؠشن سِسٹم وُچھو
+
 Conclusion
 Extending the vocabulary of an existing LLM for low-resource languages like Kashmiri results in a significant reduction in the number of tokens used and a much lower compression ratio. This approach not only makes the model more efficient but also reduces computational costs, making it a viable solution for handling underrepresented languages. By adopting this method, we can enhance the performance of LLMs on various NLP tasks for low-resource languages, paving the way for more inclusive and robust language models.
 
